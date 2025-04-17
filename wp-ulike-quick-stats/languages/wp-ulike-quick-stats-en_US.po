@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP ULike Quick Stats\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-17 01:28+0000\n"
+"PO-Revision-Date: 2025-04-17 01:57+0000\n"
+"Last-Translator: ゆず\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.2; wp-6.8\n"
+"X-Domain: wp-ulike-quick-stats"
+
+#: wp-ulike-quick-stats.php:57 wp-ulike-quick-stats.php:112
+msgid "(No Title)"
+msgstr ""
+
+#. Author of the plugin
+msgid "01kawa"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a dashboard widget and admin toolbar menu to quickly check WP ULike "
+"likes."
+msgstr ""
+
+#: wp-ulike-quick-stats.php:94
+msgid "Check WP ULike Like Statistics"
+msgstr ""
+
+#: wp-ulike-quick-stats.php:59 wp-ulike-quick-stats.php:91
+msgid "Likes"
+msgstr ""
+
+#: wp-ulike-quick-stats.php:63
+msgid "No recent likes."
+msgstr ""
+
+#: wp-ulike-quick-stats.php:31
+msgid "Recently Liked Posts (WP ULike)"
+msgstr ""
+
+#: wp-ulike-quick-stats.php:67
+msgid "View Detailed Statistics"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP ULike Quick Stats"
+msgstr ""
